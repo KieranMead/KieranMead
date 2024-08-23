@@ -1,0 +1,36 @@
+/* header.css */
+body {
+    background-image: url("C:\Users\kiera\vite-project\TELEMMGLPICT000320603954_17057759536670_trans_NvBQzQNjv4BqabYkhKT2SI0PdoIKl4b_FJmL_UGyqa1QtENOElUAA7o.jpg.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .header {
+    margin: 0;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    padding: 50px; /* Adjust padding as needed */
+    position: fixed; /* Fixed positioning for the header */
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: blue; /* Set background color for the header */
+    z-index: 1000; /* Ensure it stays on top of other content */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+  }
+  
+  /* Add padding-top to .content to prevent overlap with the fixed header */
+.content {
+    padding-top: 80px; /* Adjust based on the height of the header */
+  }
+  
+  .paragraph {
+    font-size: 40px; /* Font size for the paragraph */
+    color: rgb(169, 22, 22); /* Optional: color for better contrast */
+    text-align: center; /* Center align text if desired */
+  }
+  
