@@ -1,3 +1,11 @@
+<html>
+
+ <body>
+  background-color: red;
+ </body> 
+</html>
+
+
 -  I’m @KieranMead
 - ⚡ I’m interested in Java programming as well as python programming
 - 🖥️ I have a Computer science (cyber security) degree
@@ -27,9 +35,3 @@ KieranMead/KieranMead is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<html>
-
- <body>
-  background-color: red;
- </body> 
-</html>
