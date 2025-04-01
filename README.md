@@ -1,7 +1,11 @@
 
+<div style="background-color: red; color: white; padding: 20px;">
+  <h1>Welcome to My GitHub Profile!</h1>
+  <p>I'm @KieranMead, a developer passionate about Java and Python programming.</p>
+  <p>Feel free to explore my repositories and projects!</p>
+</div>
 
 
--  I’m @KieranMead
 - ⚡ I’m interested in Java programming as well as python programming
 - 🖥️ I have a Computer science (cyber security) degree
 - 🗝🔒🔑 Encryption and decryption protocols (proverif)
