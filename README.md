@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KieranMead
-- 👀 I’m interested in Java programming as well as python programming
-- 🌱 I have a Computer science (cyber security) degree
+-  Hi, I’m @KieranMead
+- ⚡ I’m interested in Java programming as well as python programming
+- 🖥️ I have a Computer science (cyber security) degree
 
 
 ## 🚀 My Tech Stack
