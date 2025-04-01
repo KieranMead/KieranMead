@@ -19,6 +19,7 @@
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 - ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+- Assembly(nand2tetris)
 
 ### 🗄️ Databases:
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
