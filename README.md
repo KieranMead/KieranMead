@@ -1,5 +1,5 @@
 
-<div style="background-color: red; color: white; padding: 20px;">
+<div>
   <h1>Welcome to My GitHub Profile!</h1>
   <p>I'm @KieranMead, a developer passionate about Java and Python programming.</p>
   <p>Feel free to explore my repositories and projects!</p>
